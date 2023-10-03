@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj": {}
+    "G:\\School\\323\\NumberSystemsConvertor\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj": {}
   },
   "projects": {
-    "C:\\Code\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj": {
+    "G:\\School\\323\\NumberSystemsConvertor\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj",
+        "projectUniqueName": "G:\\School\\323\\NumberSystemsConvertor\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj",
         "projectName": "NumberSystemsConvertor",
-        "projectPath": "C:\\Code\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\obj\\",
+        "projectPath": "G:\\School\\323\\NumberSystemsConvertor\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\NumberSystemsConvertor.csproj",
+        "packagesPath": "C:\\Users\\M S I   GAMING\\.nuget\\packages\\",
+        "outputPath": "G:\\School\\323\\NumberSystemsConvertor\\NumberSystemsCnvertor\\NumberSystemsConvertor\\NumberSystemsConvertor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M S I   GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
