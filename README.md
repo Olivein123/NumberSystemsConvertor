@@ -1,8 +1,9 @@
 # NumberSystemsConvertor
 A number systems convertor program 
 
-Program flow sample:
-![image](https://github.com/Olivein123/NumberSystemsConvertor/assets/111875528/d5f1cede-bc00-4957-8fe8-96d8d62785f0)
+Successful program flow sample:
+![image](https://github.com/Olivein123/NumberSystemsConvertor/assets/111875528/1ebd31bb-3b5a-47d9-9e71-183dd3d1cd89)
+
 
 Pressing Y will restart the program, enabling you to convert again
 Pressing N will exit the code
