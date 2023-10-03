@@ -1,0 +1,15 @@
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\bin\Debug\net7.0\NumberSystemsConvertor.exe
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\bin\Debug\net7.0\NumberSystemsConvertor.deps.json
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\bin\Debug\net7.0\NumberSystemsConvertor.runtimeconfig.json
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\bin\Debug\net7.0\NumberSystemsConvertor.dll
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\bin\Debug\net7.0\NumberSystemsConvertor.pdb
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.csproj.AssemblyReference.cache
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.AssemblyInfoInputs.cache
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.AssemblyInfo.cs
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.csproj.CoreCompileInputs.cache
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.dll
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\refint\NumberSystemsConvertor.dll
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.pdb
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\NumberSystemsConvertor.genruntimeconfig.cache
+C:\Code\NumberSystemsCnvertor\NumberSystemsConvertor\NumberSystemsConvertor\obj\Debug\net7.0\ref\NumberSystemsConvertor.dll
